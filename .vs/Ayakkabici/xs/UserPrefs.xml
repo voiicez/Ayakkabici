@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D6B83FA6-449C-400B-A4B7-F77CC14E28C5}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ayakkabici/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="../../Projectsw/AppCore8137/AppCore8137/DataAccess/Services/ServiceBase.cs" Line="15" Column="46" />
+      <File FileName="Ayakkabici/Views/Home/Ayakkabi.cshtml" Line="24" Column="27" />
+      <File FileName="Ayakkabici/Controllers/HomeController.cs" Line="14" Column="28" />
+      <File FileName="DataAccess/Contexts/Db.cs" Line="16" Column="13" />
+      <File FileName="DataAccess/Servicess/Service.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ayakkabici" expanded="True">
+            <Node name="Ayakkabici" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Servicess" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Ayakkabici PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

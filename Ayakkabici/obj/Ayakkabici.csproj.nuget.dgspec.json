@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/behlul/Projects/Ayakkabici/Ayakkabici/Ayakkabici.csproj": {}
+  },
+  "projects": {
+    "/Users/behlul/Projects/Ayakkabici/Ayakkabici/Ayakkabici.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/behlul/Projects/Ayakkabici/Ayakkabici/Ayakkabici.csproj",
+        "projectName": "Ayakkabici",
+        "projectPath": "/Users/behlul/Projects/Ayakkabici/Ayakkabici/Ayakkabici.csproj",
+        "packagesPath": "/Users/behlul/.nuget/packages/",
+        "outputPath": "/Users/behlul/Projects/Ayakkabici/Ayakkabici/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/behlul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/behlul/Projects/Ayakkabici/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/behlul/Projects/Ayakkabici/DataAccess/DataAccess.csproj"
+              },
+              "/Users/behlul/Projectsw/AppCore8137/AppCore8137/AppCore8137.csproj": {
+                "projectPath": "/Users/behlul/Projectsw/AppCore8137/AppCore8137/AppCore8137.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/behlul/Projects/Ayakkabici/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/behlul/Projects/Ayakkabici/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/behlul/Projects/Ayakkabici/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/behlul/.nuget/packages/",
+        "outputPath": "/Users/behlul/Projects/Ayakkabici/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/behlul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/behlul/Projectsw/AppCore8137/AppCore8137/AppCore8137.csproj": {
+                "projectPath": "/Users/behlul/Projectsw/AppCore8137/AppCore8137/AppCore8137.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/behlul/Projectsw/AppCore8137/AppCore8137/AppCore8137.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/behlul/Projectsw/AppCore8137/AppCore8137/AppCore8137.csproj",
+        "projectName": "AppCore8137",
+        "projectPath": "/Users/behlul/Projectsw/AppCore8137/AppCore8137/AppCore8137.csproj",
+        "packagesPath": "/Users/behlul/.nuget/packages/",
+        "outputPath": "/Users/behlul/Projectsw/AppCore8137/AppCore8137/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/behlul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

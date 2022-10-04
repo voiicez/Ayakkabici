@@ -1,0 +1,39 @@
+﻿@model IEnumerable<DataAccess.Entities.Ayakkabi>
+
+<table class="table">
+    <tr>
+        
+        <th>
+            @Html.DisplayNameFor(a => a.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MarkaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Numara)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Renk)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ErkekMi)
+        </th>
+        <th></th>
+    </tr>
+    GetList();
+    @foreach (var employee in @Model)
+    {
+        <tr class="tableDesign">
+            
+            <td class="tableDesign">@employee.Model</td>
+            <td class="tableDesign">@employee.MarkaId</td>
+            <td class="tableDesign">@employee.Numara</td>
+            <td class="tableDesign">@employee.Renk</td>
+            <td class="tableDesign">@employee.ErkekMi</td>
+
+        </tr>
+    }
+
+</table>
+
+
